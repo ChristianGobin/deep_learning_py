@@ -1,2 +1,3 @@
-# ml_ai_py
- ML, AI, NLP, CV w. Python
+# Deep Learning with Pytorch
+
+Foundations of Deep Learning using Pytorch.
